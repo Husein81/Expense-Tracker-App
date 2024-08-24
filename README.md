@@ -11,7 +11,6 @@
     <li><strong>Spending History</strong>: View your transaction history to track where your money is going.</li>
     <li><strong>Budget Tracking</strong>: Set and track monthly budgets to ensure you stay within your financial limits.</li>
     <li><strong>Graphical Insights</strong>: Visualize your spending habits with charts and graphs for better financial planning.</li>
-    <li><strong>Authentication</strong>: Secure login and signup using email or third-party providers.</li>
     <li><strong>Offline Functionality</strong>: Access and manage your transactions even when offline; data will sync once the app reconnects to the internet.</li>
 </ul>
 
@@ -20,9 +19,7 @@
     <li><strong>Frontend</strong>: React Native, TypeScript</li>
     <li><strong>State Management</strong>: Redux Toolkit</li>
     <li><strong>Navigation</strong>: React Navigation</li>
-    <li><strong>Backend</strong>: Node.js, Express (if applicable)</li>
-    <li><strong>Database</strong>: MongoDB (if applicable)</li>
-    <li><strong>Authentication</strong>: Firebase Authentication (optional)</li>
+    <li><strong>Backend</strong>: Firebase</li>
     <li><strong>APIs</strong>: Custom RESTful APIs built with Express (if applicable)</li>
 </ul>
 
